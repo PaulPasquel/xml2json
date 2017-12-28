@@ -1,0 +1,18 @@
+{
+ "Clients":[
+     { "Id"   : "0X1666ADFE11123",
+       "Name" : "John Miller",
+       "Balance" : -2345.11,
+       "Address" : [
+        {"Street" : "Main Avenue", "Phone" : ["55544422","66622211"]},
+        {"Street" : "Mapple Street", "Phone" : ["77744412"]},
+        {}
+                  ],
+       "Reference" : { "Personal" : [
+                        {"Name":"Alice Miller", "Relation": {"isParent":true, "Relation" : "Wife" }},
+                        {"Name":"Robert Miller","Relation": {"isParent":false, "Relation" : "Friend"}}   
+                                    ]
+}
+}   
+           ]
+}            

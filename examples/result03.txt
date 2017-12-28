@@ -1,0 +1,62 @@
+<xml>
+ <Clients id="1">
+   <Id>
+   "0X1666ADFE11123"
+   </Id>
+   <Name>
+   "John Miller"
+   </Name>
+   <Balance>
+   -2345.11
+   </Balance>
+   <Address id="1">
+     <Street>
+     "Main Avenue"
+     </Street>
+     <Phone id="1">
+      "55544422"
+     </Phone>
+     <Phone id="2">
+      "66622211"
+     </Phone>
+   </Address>
+   <Address id="2">
+     <Street>
+     "Mapple Street"
+     </Street>
+     <Phone id="1">
+      "77744412"
+     </Phone>
+   </Address>
+   <Address id="3">
+   </Address>
+   <Reference>
+     <Personal id="1">
+       <Name>
+       "Alice Miller"
+       </Name>
+       <Relation>
+         <isParent>
+         true
+         </isParent>
+         <Relation>
+         "Wife"
+         </Relation>
+       </Relation>
+     </Personal>
+     <Personal id="2">
+       <Name>
+       "Robert Miller"
+       </Name>
+       <Relation>
+         <isParent>
+         false
+         </isParent>
+         <Relation>
+         "Friend"
+         </Relation>
+       </Relation>
+     </Personal>
+   </Reference>
+ </Clients>
+</xml>

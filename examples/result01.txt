@@ -1,0 +1,24 @@
+<xml>
+ <Person>
+   <Pedro>
+     <name>
+     "Pedro Rodriguez"
+     </name>
+     <age>
+     32
+     </age>
+     <phone>
+     "593 223 4445"
+     </phone>
+     <married>
+     true
+     </married>
+     <sons id="1">
+      "Peter"
+     </sons>
+     <sons id="2">
+      "Luis"
+     </sons>
+   </Pedro>
+ </Person>
+</xml>

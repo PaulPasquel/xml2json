@@ -1,0 +1,11 @@
+{
+ "Person" : {
+             "Pedro" : {
+                     "name"  : "Pedro Rodriguez",
+                     "age"   : 32,
+                     "phone" : "593 223 4445",
+                     "married" : true,   	
+                     "sons"  : ["Peter","Luis"]		
+                    }		   
+            }
+}

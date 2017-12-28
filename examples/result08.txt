@@ -1,0 +1,16 @@
+<xml>
+ </":{"storage>
+   <type>
+   "disk"
+   </type>
+   <device>
+   "/dev/sda1"
+   </device>
+ <//":{"storage>
+ <fstype>
+ "btrfs"
+ </fstype>
+ <readonly>
+ true
+ </readonly>
+</xml>
